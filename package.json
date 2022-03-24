@@ -4,6 +4,7 @@
   "description": "React application boilerplate",
   "scripts": {
     "start": "parcel index.html -p 8080",
+    "heroku-postbuild" : "parcel build src/index.html",
     "build": "parcel build"
   },
   "devDependencies": {
