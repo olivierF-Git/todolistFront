@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "title":"Tester le générateur d'appli FUN",
+    "owner":"XXX",
+    "created":"2011-05-03",
+    "effort":1,
+    "completionDate":null,
+    "status":"IN_PROGRESS"
+  },
+  {
+    "id":2,
+    "title":"Importer le projet Admin REFCG dans SVN",
+    "owner":"XXX",
+    "created":"2011-05-03",
+    "effort":1,
+    "completionDate":"2011-05-03",
+    "status":"OPEN"
+  },
+  {
+    "id":3,
+    "title":"Réaliser une maquette de l'appli en React",
+    "owner":"XXX",
+    "created":"2011-05-03",
+    "effort":5,
+    "completionDate":"2011-05-03",
+    "status":"ASSIGNED"
+  },
+  {
+    "id":4,
+    "title":"Récupérer le generator-funapp à jour",
+    "owner":"XXX",
+    "created":"2011-05-03",
+    "effort":3,
+    "completionDate":"2011-05-03",
+    "status":"ASSIGNED"
+  }
+]
