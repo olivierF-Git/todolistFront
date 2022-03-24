@@ -3,7 +3,7 @@
   "version": "0.1.4",
   "description": "React application boilerplate",
   "scripts": {
-    "start": "parcel index.html -p 8080"
+    "start": "parcel index.html -p $PORT"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
